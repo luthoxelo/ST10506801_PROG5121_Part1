@@ -6,7 +6,7 @@ This project is a simple Java console-based application that demonstrates a user
 
 ##The program is divided into two main classes:
 
-Login.java → Handles all validation and authentication logic
+Login.java = Handles all validation and authentication logic
 Main.java → Handles user interaction via the console
 #Features
 ##User Registration
