@@ -1,5 +1,5 @@
 # ST10506801_PROG5121_Part1
-Contributing
+## Contributing
 Instructions for developers who want to contribute.
 Fork the repository
 Create a new branch (git checkout -b feature-name)
